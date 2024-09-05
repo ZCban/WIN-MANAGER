@@ -1,0 +1,4 @@
+-aggiungere piu print a ddu per capire cosa fa
+-driver manager e ddue in mukltitrheed 
+-uninstall all deve rimuovere solo il backup
+
